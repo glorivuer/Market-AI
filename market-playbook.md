@@ -56,3 +56,31 @@ Cursor targets developers, while ElevenLabs targets content creators and media p
 Eventually, many companies begin to go after larger average contract values. ElevenLabs for example, has a tier for individual contributors, but now is used by a reported 41% of Fortune 500 companies.
 
 They seem to be doing both. Marketing to prosumers seems to dominate ElevenLabs’ early trajectory, and eventually, an enterprise sales level is built on top, when revenue is already scaling.
+
+5. Open-Source Foundation
+The open-source strategy builds a community around freely available software. There is still so much room to grow here.
+
+The frontier of software development is expanding at an unbelievable rate, continuously creating new opportunities and tools to be built, while the horizon of everything else — media, Google, paid marketing — seems to be shrinking.
+
+Open-source communities are thriving networks with great potential. Many companies have been very successful partially becaue they leverage this approach to both refine the product itself and drive adoption.
+
+Snyk, a software development security platform, has leveraged this approach. Snyk created an API to help detect and fix software vulnerabilities. Developers have also contributed millions of code vulnerabilities into a database. The more users, the better the product.
+
+You can always monetize that type of community later on. For example, 70% of companies that eventually bought premium services already had individual contributors using Snyk.
+
+First community, then sales. (If you need sales at all).
+
+6. Influencer Marketing
+Influencer marketing remains an incredibly fertile ground for growth because influencers provide that crucial layer of social proof that facilitates transactions.
+
+We are all familiar with consumer influencer marketing, but today B2B influencer marketing is driving a significant amount of sales for some startups who can authentically execute on it.
+
+Clay is an example influencer marketing done well. Clay has built tools within their product that help influencers showcase its full potential, and created formal programs for creators.
+
+Critically, this is a two-way relationship. Clay builds features creators can use in a variety of use cases, which makes the creators look smarter.  This system grows each party’s reach in turn. It’s a virtuous cycle.
+
+Today, in early adopter niches, social proof is far more meaningful than traditional advertising. Those early adopters are exactly the people you need to drive growth early on.
+
+This may feel like a known tactic, but this world is far more fragmented than people tend to believe. It’s wide open for creative marketers, and likely to accelerate fast.
+
+The tools for creative marketers and influencers are only increasing with the rise of AI powered “vibe marketing.” Now, individual contributors have the resources of a legacy ad agency at their fingertips.  And, these ecosystems are still less competitive than the traditional marketing channels.
