@@ -84,3 +84,14 @@ Today, in early adopter niches, social proof is far more meaningful than traditi
 This may feel like a known tactic, but this world is far more fragmented than people tend to believe. It’s wide open for creative marketers, and likely to accelerate fast.
 
 The tools for creative marketers and influencers are only increasing with the rise of AI powered “vibe marketing.” Now, individual contributors have the resources of a legacy ad agency at their fingertips.  And, these ecosystems are still less competitive than the traditional marketing channels.
+
+If You Only Remember One Thing
+When traditional marketing channels are expensive and saturated, it demands a re-shuffling of the GTM playbook. That’s what we’re witnessing right now.
+
+The new formula is a product + community framework.
+
+Build where your users already are, enable them to try and buy without friction, create authentic connections rather than sales pitches, and find ways to turn users into advocates on and off your platform.
+
+These tactics are landing right now, but this playbook is always shifting. In fact, if the playbook feels too obvious, it’s a sign to get creative.
+
+But for the right product and team at the right speed, there’s plenty of fertile ground here.
