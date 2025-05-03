@@ -23,3 +23,36 @@ First, it conveys trust to your users. They feel like they’re part of the proc
 Second, it’s motivating for you. When your success or failure is so visible, it’s a bit like being a public company. When things go well, it’s great. When things go badly, it’s awful.
 
 But that visibility creates a powerful drive to deliver.
+
+2. Community-Centric Growth
+The traditional model was to build your own community platform and try to own the conversation. Now, you build the community where the community already is.
+
+Being where your users already gather eliminates the need for traditional sales infrastructure. This, partially, could be why Midjourney is on track to generate $200M ARR, and still appears to have a minimal sales team.
+
+It feels unnatural to some founders to build on top of another product. But think of it as a way to build a network fast.
+
+And today, speed is essential.
+
+3. Self-Service “Viral” Products
+The self-service model allows users to discover, try, and purchase products without any interaction with sales teams. You don’t want users to have to get approval from their boss.  Just let them put in their credit card and experiment.
+
+You want to reward experimentation with your product.
+
+While not a new channel, we’re seeing this motion explode during the AI era. This is due to AI “breakthrough”product experiences, low-friction onboarding, and deliberate encouragement around product sharing.
+
+Cursor does this well. Its AI coding assistant allows people to start using the product right away and purchase premium features with a credit card.
+
+This approach enables extraordinary growth with minimal teams. Just as Zoom exploded during the pandemic because it was the best product in the market and users could simply enter their credit card to get started, today’s AI-native products are following this same playbook.
+
+4. Prosumer-Targeted Products
+The “prosumer” seems to represent a sweet spot for AI products. These users have:
+
+Higher willingness to pay than traditional consumers
+Genuine problems that AI can solve
+Decision-making authority for their own tools
+Preference for self-service and fast solutions they can try first.
+Cursor targets developers, while ElevenLabs targets content creators and media professionals. The willingness to pay is higher because these products work right away. You can scale to meaningful ARR on the backs of these global, prosumer communities.
+
+Eventually, many companies begin to go after larger average contract values. ElevenLabs for example, has a tier for individual contributors, but now is used by a reported 41% of Fortune 500 companies.
+
+They seem to be doing both. Marketing to prosumers seems to dominate ElevenLabs’ early trajectory, and eventually, an enterprise sales level is built on top, when revenue is already scaling.
